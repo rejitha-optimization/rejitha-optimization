@@ -20,6 +20,6 @@ systems.
 
 ### Background 🎓
 - PhD in Optimization & Dynamical Systems (IIT Madras)
-- Applied research and industry experience in energy systems and EV charging
+- Applied research and industry experience in energy systems and EV charging (TCS Research)
 
 🔗 LinkedIn: https://www.linkedin.com/in/rejitha-raveendran/
